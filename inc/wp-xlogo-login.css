@@ -1,0 +1,12 @@
+.form-input{
+	height: 31px;
+    line-height: 28px;
+    border-radius: 3px;
+}
+.btn-save{
+	width: 80px;
+}
+
+label{
+	font-weight: 700;
+}
